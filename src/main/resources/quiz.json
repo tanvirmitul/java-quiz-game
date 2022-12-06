@@ -1,0 +1,178 @@
+[
+  {
+    "Option a": "0, 1900, 2004, 2005",
+    "Option b": "1900, 2004",
+    "answer": "d",
+    "Question": "An input field takes the year of birth between 1900 and 2004. The boundary values for testing this field are:",
+    "Option c": "1899, 1900, 2004, 2005",
+    "Option d": "1899, 1900, 1901, 2003, 2004, 2005"
+  },
+  {
+    "Option a": "System testing",
+    "Option b": "Usability testing",
+    "answer": "c",
+    "Question": "Which one of the following are non-functional testing methods?",
+    "Option c": "Performance testing",
+    "Option d": "Both b & c"
+  },
+  {
+    "Option a": "Data tester",
+    "Option b": "Boundary tester",
+    "answer": "c",
+    "Question": "Which of the following tools would be involved in the automation of regression test?",
+    "Option c": "Capture\/Playback",
+    "Option d": "Output comparator"
+  },
+  {
+    "Option a": "Statement coverage",
+    "Option b": "Pole coverage",
+    "answer": "b",
+    "Question": "Incorrect form of Logic coverage is:",
+    "Option c": "Condition coverage",
+    "Option d": "Path coverage"
+  },
+  {
+    "Option a": "Functionality",
+    "Option b": "Usability",
+    "answer": "c",
+    "Question": "Which of the following is not a quality characteristic listed in ISO 9126 Standard?",
+    "Option c": "Supportability",
+    "Option d": "Maintainability"
+  },
+  {
+    "Option a": "Stub",
+    "Option b": "Driver",
+    "answer": "b",
+    "Question": "To test a function, the programmer has to write a ____, which calls the function to be tested and passes it test data.",
+    "Option c": "Proxy",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Is the same as equivalence partitioning tests",
+    "Option b": "Test boundary condition on, below and above the edges of input and output equivalence classes",
+    "answer": "b",
+    "Question": "Boundary value testing",
+    "Option c": "Test combinations of input circumstances",
+    "Option d": "Is used in white box testing strategy"
+  },
+  {
+    "Option a": "Quality is job one",
+    "Option b": "Zero defects",
+    "answer": "c",
+    "Question": "Pick the best definition of quality",
+    "Option c": "Conformance to requirements",
+    "Option d": "Work as designed"
+  },
+  {
+    "Option a": "Error condition hiding another error condition",
+    "Option b": "Creating a test case which doesn't reveal a fault",
+    "answer": "a",
+    "Question": "Fault Masking is",
+    "Option c": "Maskingn a fault by a developer",
+    "Option d": "Masking a fault by a tester"
+  },
+  {
+    "Option a": "Lack of technical documentation",
+    "Option b": "Lack of test tools on the market for developers",
+    "answer": "d",
+    "Question": "One key reason why developers have difficulty testing their own work is:",
+    "Option c": "Lack of training",
+    "Option d": "Lack of objectivity"
+  },
+  {
+    "Option a": "When the code is complete",
+    "Option b": "When the design is complete",
+    "answer": "c",
+    "Question": "During the software development process, at what point can the test process start?",
+    "Option c": "When the software requirements have been approved",
+    "Option d": "When the first code module is ready for unit testing"
+  },
+  {
+    "Option a": "Takes minutes of the meeting",
+    "Option b": "Mediates between people",
+    "answer": "b",
+    "Question": "In a review meeting a moderator is a person who:",
+    "Option c": "Takes telephone calls",
+    "Option d": "Write the documents to be reviewed"
+  },
+  {
+    "Option a": "Requirements",
+    "Option b": "Design",
+    "answer": "a",
+    "Question": "Acceptance test cases are based on what?",
+    "Option c": "Code",
+    "Option d": "Decision table"
+  },
+  {
+    "Option a": "This question is impossible to answer",
+    "Option b": "This question is easy to answer",
+    "answer": "c",
+    "Question": "How much testing is enough?",
+    "Option c": "The answer depends on the risk for your industry, contract and special requirements",
+    "Option d": "This answer depends on the maturity of your developers"
+  },
+  {
+    "Option a": "Statement and branch testing",
+    "Option b": "Usability testing",
+    "answer": "a",
+    "Question": "A common test technique during component test is:",
+    "Option c": "Security testing",
+    "Option d": "Performance testing"
+  },
+  {
+    "Option a": "Missing statements",
+    "Option b": "Unused branches",
+    "answer": "a",
+    "Question": "Statement coverage will not check for the following.",
+    "Option c": "Dead code",
+    "Option d": "Unused statement"
+  },
+  {
+    "Option a": "Done by the Developer",
+    "Option b": "Done by the Test Engineer",
+    "answer": "d",
+    "Question": "Independent Verification & Validation is:",
+    "Option c": "Done by management",
+    "Option d": "Done by an Entity Outside the Project sphere of influence"
+  },
+  {
+    "Option a": "Defects",
+    "Option b": "Trends analysis",
+    "answer": "c",
+    "Question": "Code coverage is used as a measure of what?",
+    "Option c": "Test effectiveness",
+    "Option d": "Time spent testing"
+  },
+  {
+    "Option a": "Component testing",
+    "Option b": "Non-functional system testing",
+    "answer": "d",
+    "Question": "Which of the following uses Impact Analysis most?",
+    "Option c": "User acceptance testing",
+    "Option d": "Maintenance testing"
+  },
+  {
+    "Option a": "Test Analysis and Design",
+    "Option b": "Test Planning and control",
+    "answer": "a",
+    "Question": "Evaluating testability of the requirements and system are a part of which phase",
+    "Option c": "Test Implementation and execution",
+    "Option d": "Evaluating exit criteria and reporting"
+  },
+  {
+    "Option a": "Retesting",
+    "Option b": "Confirmation testing",
+    "answer": "c",
+    "Question": "Repeated Testing of an already tested program, after modification, to discover any defects introduced or uncovered as a result of the changes in the software being tested or in another related or unrelated software component:",
+    "Option c": "Regression testing",
+    "Option d": "Negetive testing"
+  },
+  {
+    "Option a": "How much regression testing should be done",
+    "Option b": "Exit Criteria",
+    "answer": "a",
+    "Question": "Impact Analysis helps to decide",
+    "Option c": "How many more test cases need to written",
+    "Option d": "Different Tools to perform Regression Testing"
+  }
+]
